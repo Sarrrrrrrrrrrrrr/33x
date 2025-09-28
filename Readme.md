@@ -20,8 +20,7 @@ Contoh: Struktur data adalah cara untuk menyimpan dan mengorganisir data dalam k
 
 ## Lampiran Foto Laporan
 
-![Tangkapan Layar Hasil Program](image/g1.png)
-[codingan ini mengecek apakah variabel **total_pembeliankondisi** bernilai true atau tidak ]
+![Tangkapan Layar Hasil Program](image/g1.png) { <br>  <br> [codingan ini mengecek...] <br> }
 ![Tangkapan Layar Hasil Program](image/g2.png)
 [jika kondisi diatas true, maka program akan menjalankan kondisi dari kode blok yang tertera diatas]
 ![Tangkapan Layar Hasil Program](image/g3.png)
