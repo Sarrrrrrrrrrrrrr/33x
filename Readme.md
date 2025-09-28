@@ -57,7 +57,36 @@ Hasilnya, r menjadi 21 dan s menjadi 41. Ini membuktikan bahwa r berubah sebelum
 
 
 ### 4.3 Guided 3
-[Penjelasan tentang guided ketiga yang sesuai dengan praktikum yang telah dilakukan.]
+[latihan soal yang ketiga ini adalah konversi suhu dari Celcius ke Fahrenheit. Tujuannya adalah memastikan hasil perhitungan tidak salah karena pembagian bilangan bulat.]
+
+Logika:
+
+Rumus konversi Farenheit adalah  
+5
+9
+​
+ ×C+32.
+
+Jika kita menulis 9/5, C++ akan menganggapnya sebagai pembagian bilangan bulat, dan hasilnya salah (1, bukan 1.8).
+
+Oleh karena itu, di kode kita menulis 9.0/5.0. Angka desimal (.0) ini memaksa C++ menghitung 1.8 dan memberikan hasil konversi suhu yang benar.
+
+Ini menunjukkan bahwa kita harus menggunakan tipe data desimal (float atau double) jika perhitungan akan menghasilkan pecahan.
+
+[Berikut adalah output:]
+
+
+
+
+[Codingan ini menerima input dari user dan menyimpannya ke variabel celcius lalu di hitung menggunakan rumus fahrenheit = (9.0/5.0) * celcius + 32] 
+
+
+
+
+
+[Jika di jalankan akan menghasilkan output konversi suhu dari celcius ke fahrenheit] 
+
+
 
 ## 5. Unguided
 ### 5.1 Unguided 1
