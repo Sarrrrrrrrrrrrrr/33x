@@ -26,9 +26,11 @@ Contoh: Struktur data adalah cara untuk menyimpan dan mengorganisir data dalam k
 ![Tangkapan Layar Hasil Program](image/g3.png) <br> <br>
 [jika kondisi nya adalah false, maka program akan menjalankan kondiri dari kode blok yang tertera di atas] <br>
 
+[Berikut adalah output:]
+
 
 ### 4.2 Guided 2
-[Penjelasan tentang guided kedua, meliputi kode dan penjelasan fungsinya.]
+
 
 ### 4.3 Guided 3
 [Penjelasan tentang guided ketiga yang sesuai dengan praktikum yang telah dilakukan.]
