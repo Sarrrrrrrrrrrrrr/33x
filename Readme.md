@@ -30,6 +30,30 @@ Contoh: Struktur data adalah cara untuk menyimpan dan mengorganisir data dalam k
 
 
 ### 4.2 Guided 2
+[latihan soal yang kedua ini menunjukkan bagaimana cara kerja operator tambah satu duluan (pre-increment, ++r).]
+
+Logika:
+
+Nilai awal r adalah 20.
+
+Saat menghitung s = 20 + ++r;, program akan menambah r menjadi 21 terlebih dahulu.
+
+Kemudian s dihitung: s=20+21.
+
+Hasilnya, r menjadi 21 dan s menjadi 41. Ini membuktikan bahwa r berubah sebelum perhitungan selesai.
+
+[Berikut adalah output:]
+
+
+
+
+[Codingan ini mengecek variabel r akan ditambahkan 1 terlebih dahulu lalu s akan menerima nilai dari 20 yang ditambahkan r]
+
+
+
+
+
+[Jika di jalankan akan menghasilkan r bernilai 21 dan s bernilai 41]
 
 
 ### 4.3 Guided 3
