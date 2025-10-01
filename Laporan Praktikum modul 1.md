@@ -28,7 +28,7 @@ C++ memungkinkan penggunaan overloading, templating, dan fitur STL (Standard Tem
 [jika kondisi diatas true, maka program akan menjalankan kondisi dari kode blok yang tertera diatas] 
 [jika kondisi nya adalah false, maka program akan menjalankan kondiri dari kode blok yang tertera di atas] 
 
-[Berikut adalah output: ![alt text](image-1.png)]
+[Berikut adalah output: ![Process Output](image/image-1.png)]
 
 
 ### 4.2 Guided 2
@@ -45,7 +45,7 @@ Setelah itu program menampilkan hasil:
 
 "nilai s adalah : 41"
 
-[Berikut adalah output:![alt text](image-2.png)]
+[Berikut adalah output:![Process Output](image/image-2.png)]
 
 
 
@@ -72,7 +72,7 @@ Oleh karena itu, di kode kita menulis 9.0/5.0. Angka desimal (.0) ini memaksa C+
 Ini menunjukkan bahwa kita harus menggunakan tipe data desimal (float atau double) jika perhitungan akan menghasilkan pecahan.
 
 [Berikut adalah output:]
-![alt text](image.png)
+![Process Output](image/image.png)
 
 
 
