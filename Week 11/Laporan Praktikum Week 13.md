@@ -268,7 +268,7 @@ main.cpp = Pakai fungsi-fungsi tersebut untuk jalankan program
 ### 5.2 Unguided 2
 Code Circularist
 1 [Unguided](circularist.cpp)
-Code Maingit
+Code main
 2 [Unguided](main.cpp)
 Code header Circularist
 3 [Unguided](circularlist.h)
