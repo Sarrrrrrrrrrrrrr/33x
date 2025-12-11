@@ -22,18 +22,3 @@ int main() {
 
     return 0;
 }
-
- //Unguided 5.1
-
-    //Unguided 5.2
-    // pushAscending(S, 3);
-   // pushAscending(S, 4);
-  //  pushAscending(S, 8);
- //   pushAscending(S, 2);
-  //  pushAscending(S, 3);
-  //  pushAscending(S, 9);
- //   cout << "Stack ascending (TOP -> bottom):" << endl;
-   // printInfo(S);
-
-
-
