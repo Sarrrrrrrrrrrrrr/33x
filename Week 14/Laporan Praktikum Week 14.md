@@ -84,29 +84,6 @@ Hasil dari ConnectNode adalah hubungan dua arah antara dua node, seperti jalan r
 
 Output: ![Output](Image/Ung1.png)
 
-
-### 5.2 Unguided 2
-
-Code Graph Edge
-[Graph Edge](grap_edge.cpp)
-
-Code Graph Print
-[Graph Print](graph_print.cpp)
-
-Code Graph
-[Graph](graph.cpp)
-
-Code Main
-[Main](main.cpp)
-
-Code Traversal
-
-
-Penjelasan:
-
-
-Output:
-
 ### 5.2 Unguided 2
 
 Code Graph Edge
